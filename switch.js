@@ -17,5 +17,5 @@ switch (tipoSuscripcion) {
         break;
     case "ExpertDuos":
         console.log("Tienes la suscripcion para dos personas")
-        break
+        break;
 }
